@@ -1,5 +1,4 @@
 # Introduction
-
 labDAO requires a governance model to support its goal of building a decentralized, contributor-owned and operated platform for enabling scientific experiments and R&D services.
 
 # Membership
@@ -9,7 +8,7 @@ Governance tokens can be obtained by providing funds or work-in-kind to the stru
 
 # Working Groups
 A working group member provides expertise and advice to labDAO. Working Group members should be able to provide objective advice, and must declare any pecuniary interests when providing that advice.
-Just like Working groups membership is not a compensated positop. In cases where working group members are paid (e.g., coordination working group), group members can be compensated in $LAB, stablecoins (such as USDC), or other incentive schemes decided by members on project basis.
+Just like Working groups membership is not a compensated posit. In cases where working group members are paid (e.g., coordination working group), group members can be compensated in $LAB, stablecoins (such as USDC), or other incentive schemes decided by members on project basis.
 
 ## Core
 
