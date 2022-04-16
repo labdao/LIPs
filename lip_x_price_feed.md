@@ -1,4 +1,4 @@
-# LabDAO improvment proposal: an open pricing engine for computational tasks
+# LabDAO improvement proposal: an open pricing engine for computational tasks
 
 [![hackmd-github-sync-badge](https://hackmd.io/n2I2AMeTQCeUhg2XIkHRqQ/badge)](https://hackmd.io/n2I2AMeTQCeUhg2XIkHRqQ)
 
