@@ -1,7 +1,10 @@
 # LabDAO improvment proposal: an open pricing engine for computational tasks
 
+[![hackmd-github-sync-badge](https://hackmd.io/n2I2AMeTQCeUhg2XIkHRqQ/badge)](https://hackmd.io/n2I2AMeTQCeUhg2XIkHRqQ)
+
+
 ## Problem 
-too bootstrap the market a fair upper bound price recommendation and lower bound quality guarantee needs to be provided by the LabDAO. 
+to bootstrap the market a fair upper bound price recommendation and lower bound quality guarantee needs to be provided by the LabDAO. 
 
 ## Solution
 Generate a pricing feed for computational services that is, for example, modeled based on the per-job AWS costs incurred by the openlab zug association.
