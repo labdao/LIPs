@@ -1,0 +1,60 @@
+# header
+{
+    "name": "antibody phage display with amplicon sequencing readout"
+    "description": "phage display with human scFv binder library and amplicon sequencing of bound phagemids",
+    "image": "ipfs://QmZ9oReVUiNQSc9GaqqTEPUW3XHo6eprVSa9nqbGNotP8B",
+    "properties": {
+        "user": "0x64BC15E0A5A12dDbe321EEDD832d057775D11F56",
+        "parameters": # no parameters in this simple example
+        "input": "ipfs://QmaQv91AUmu4wDNiNc8exUrSrDnZ65YBEXuTrxSJSnJbcz",
+        "provider": # provider wallet address goes here
+        "execution": # object URI containing details about the execution environment goes here
+        "output": # object URI containing a referenced .fasta file
+    }
+}
+
+# input
+{
+    "target": {
+      "description": 'URI of the binding target description, this could be a flat .txt file',
+      "name": "binding_target_description.txt",
+      "uri": "ipfs://QmfURWZakhnD1Rn3DqC38Eqps1zgZ17dxM4KgV1rmJDhww",
+      "type": "string"
+    },
+    "phage vector library": {
+      "description": ,
+      "name": ,
+      "uri": ,
+      "type": 'string',
+    }
+}
+
+# parameters
+{
+    'panning cycles': {
+      "description":
+      "value": 3
+      "type": 'integer',
+    },
+    scoring: {
+      "description": "should a downstream analysis with scoring of the laboratory service be included in the analysis?"
+      "value": true
+      "type": 'boolean',
+    }
+}
+
+# output
+{
+    "sequencing_panning_start": {
+      "description": 'fastq file of panning start',
+      "name": "pre_panning.fastq",
+      "uri": "ipfs://QmfURWZakhnD1Rn3DqC38Eqps1zgZ17dxM4KgV1rmJDhww",
+      "type": "fastq"
+    },
+    "sequencing_panning_end": {
+        "description": 'fastq file of panning end',
+        "name": "post_panning.fastq",
+        "uri": "ipfs://QmfURWZakhnD1Rn3DqC38Eqps1zgZ17dxM4KgV1rmJDhww",
+        "type": "fastq"
+      }
+}

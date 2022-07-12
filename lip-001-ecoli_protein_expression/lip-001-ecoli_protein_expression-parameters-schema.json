@@ -1,0 +1,61 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://example.com/object1657623578.json", 
+	"title": "Root", 
+	"type": "object",
+	"required": [
+		"target_mass_g",
+		"sequence_optimization",
+		"plasmid_sequencing",
+		"affinity_tag_removal",
+		"refolding"
+	],
+	"properties": {
+		"target_mass_g": {
+			"$id": "#root/target_mass_g", 
+			"title": "Target_mass_g", 
+			"type": "number",
+			"examples": [
+				0.001
+			],
+			"default": 0.0
+		},
+		"sequence_optimization": {
+			"$id": "#root/sequence_optimization", 
+			"title": "Sequence_optimization", 
+			"type": "boolean",
+			"examples": [
+				true
+			],
+			"default": true
+		},
+		"plasmid_sequencing": {
+			"$id": "#root/plasmid_sequencing", 
+			"title": "Plasmid_sequencing", 
+			"type": "boolean",
+			"examples": [
+				false
+			],
+			"default": true
+		},
+		"affinity_tag_removal": {
+			"$id": "#root/affinity_tag_removal", 
+			"title": "Affinity_tag_removal", 
+			"type": "boolean",
+			"examples": [
+				false
+			],
+			"default": true
+		},
+		"refolding": {
+			"$id": "#root/refolding", 
+			"title": "Refolding", 
+			"type": "boolean",
+			"examples": [
+				false
+			],
+			"default": true
+		}
+	}
+}

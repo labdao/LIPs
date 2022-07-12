@@ -1,0 +1,7 @@
+{ 
+  "target_mass_g": 0.001,
+  "sequence_optimization": true, 
+  "plasmid_sequencing": false,
+  "affinity_tag_removal": false,
+  "refolding": false
+}
