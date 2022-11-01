@@ -16,7 +16,7 @@
 			"type": "string",
 			"default": "",
 			"examples": [
-				"protein_sequence.fa"
+				"protein.fa"
 			],
 			"pattern": "^.*$"
 		},

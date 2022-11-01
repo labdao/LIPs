@@ -1,0 +1,5 @@
+{ 
+  "container": "ghcr.io/labdao-apps/equibind:main",
+  "sha256": "c7dd6f59e0cd89bc39576ba0f76f7c2e48ce786b2e075632705bbf4c36ea01e0",
+  "job_id": "de712a10-37dc-4ceb-915d-571ad00a6bf4"
+}

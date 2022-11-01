@@ -1,7 +1,6 @@
 {
     "name": "protein expression and purification in e.coli", 
     "description": "receive an amino acid sequence; express and purify a protein in e.coli; return quality control and sample information",
-    "image": "",
     "properties": {
         "user": "0x64BC15E0A5A12dDbe321EEDD832d057775D11F56",
         "parameters": "ipfs://QmaQv91AUmu4wDNiNc8exUrSrDnZ65YBdfsfdxSJSnJbcz",
