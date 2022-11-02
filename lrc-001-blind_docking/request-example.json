@@ -2,6 +2,5 @@
     "name": "blind docking of a small molecule library to a protein",
     "description": "receive a protein structure and a small molecule library; return docked poses and scores",
     "user": "0x64BC15E0A5A12dDbe321EEDD832d057775D11F56",
-    "client-parameters": "ipfs://QmaQv91AUmu4wDNiNc8exUrSrDnZ65YBdfsfdxSJSnJbcz",
-    "input": "ipfs://QmaQv91AUmu4wDNiNc8exUrSrDnZ65YBEXuTrxSJSnJbcz"
+    "request": "ipfs://bafybeigqfpwovowhurtuyw4snobasdj4nou2krtjo3szcq4lu73m2iyc64"
 }
